@@ -11,4 +11,6 @@
         <item>Marte</item>
         <item>Júpiter</item>
     </string-array>
+    <string name="titulo_tarjeta">Gatito 5.0</string>
+    <string name="descripcion_tarjeta">Esta es la version de Android Gatito 5.0</string>
 </resources>
