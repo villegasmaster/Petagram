@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="texto_botonClick">Click</string>
+    <string name="texto_titulo">Hello World!!!</string>
+    <string name="message">Añadido a favoritos</string>
+    <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+    </string-array>
 </resources>
